@@ -1,7 +1,8 @@
 # About me
 
-I'm kone and I am very experinced in these languages:
+I'm kone and I absolutely love to code.
 
+## Languages I know
 1. TypeScript/JavaScript (NodeJS and Browser)
 2. HTML/CSS
 3. C#
@@ -19,5 +20,7 @@ And currently, I'm learning C++.
 ## Contact
 - Discord
   - `_kone__`
-## You can support me here
+## Donate
+If you love what I do and want to see more of it, consider donating :)
+
 <a href="https://www.buymeacoffee.com/konekowo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=konekowo&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
