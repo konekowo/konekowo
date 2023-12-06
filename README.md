@@ -1,16 +1,23 @@
-### Hi there 👋
+# About me
 
-<!--
-**konekowo/konekowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm kone and I am very experinced in these languages:
 
-Here are some ideas to get you started:
+1. TypeScript/JavaScript (NodeJS and Browser)
+2. HTML/CSS
+3. C#
+4. Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And currently, I'm learning C++.
+
+## Projects I'm working on
+- [Grade Calculator V3](https://github.com/konekowo/Grade-Calculator-V3/)
+  - A full-stack web app that takes grades from your district's grade portal (if it's supported), processes it, lets you add your own "what if" grades, and calculates the total grade and weighted/unweighted GPA.
+- [kosu!](https://github.com/konekowo/kosu/)
+  - A recreation of osu! in the Unity game engine to compile for web browsers.
+- Resent (not open source due to copyright infringing code)
+  - The #1 PvP Minecraft client that is made to compile to the web (at the time of writing this).
+## Contact
+- Discord
+  - `_kone__`
+## You can support me here
+<a href="https://www.buymeacoffee.com/konekowo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=konekowo&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
