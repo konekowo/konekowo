@@ -17,10 +17,11 @@ And currently, I'm learning C++.
   - A recreation of osu! in the Unity game engine to compile for web browsers.
 - Resent (not open source due to copyright infringing code)
   - The #1 PvP Minecraft client that is made to compile to the web (at the time of writing this).
-## Contact
-- Discord
-  - `_kone__`
 ## Donate
 If you love what I do and want to see more of it, consider donating :)
 
 <a href="https://www.buymeacoffee.com/konekowo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=konekowo&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+## Contact
+- Discord
+  - `_kone__`
+
