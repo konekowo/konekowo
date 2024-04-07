@@ -13,8 +13,8 @@ And currently, I'm learning C++.
 ## Projects I'm working on
 - [Grade Calculator V3](https://github.com/konekowo/Grade-Calculator-V3/)
   - A full-stack web app that takes grades from your district's grade portal (if it's supported), processes it, lets you add your own "what if" grades, and calculates the total grade and weighted/unweighted GPA.
-- [kosu!](https://github.com/konekowo/kosu/)
-  - A recreation of osu! in the Unity game engine to compile for web browsers.
+- [kosu!ts](https://github.com/konekowo/kosu-ts/)
+  - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and PixiJS.
 - Resent (not open source due to copyright infringing code)
   - The #1 PvP Minecraft client that is made to compile to the web (at the time of writing this).
 ## Donate
