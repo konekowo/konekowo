@@ -3,10 +3,12 @@
 I'm kone and I absolutely love to code.
 
 ## Languages I know
-1. TypeScript/JavaScript (NodeJS and Browser)
-2. HTML/CSS
-3. C#
-4. Java
+1. JavaScript (NodeJS and Browser)
+2. TypeScript (NodeJS and Browser)
+3. HTML
+4. CSS
+5. C#
+6. Java
 
 And currently, I'm learning C++.
 
