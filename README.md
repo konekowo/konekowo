@@ -15,7 +15,7 @@ And currently, I'm learning C++.
   - A full-stack web app that takes grades from your district's grade portal (if it's supported), processes it, lets you add your own "what if" grades, and calculates the total grade and weighted/unweighted GPA.
 - [kosu!ts](https://github.com/konekowo/kosu-ts/)
   - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and PixiJS.
-- Resent (not open source due to copyright infringing code)
+- Resent (not open source)
   - The #1 PvP Minecraft client that is made to compile to the web (at the time of writing this).
 ## Donate
 If you love what I do and want to see more of it, consider donating :)
