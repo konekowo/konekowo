@@ -5,8 +5,8 @@ I'm kone and I absolutely love to code.
 ## Languages I know
 1. TypeScript (NodeJS and Browser)
 2. JavaScript (NodeJS and Browser)
-4. C#
-5. Java
+4. Java
+5. C#
 6. HTML
 7. CSS
 
