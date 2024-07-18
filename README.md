@@ -16,7 +16,7 @@ And currently, I'm learning C++.
 - [kosu!ts](https://github.com/konekowo/kosu-ts/)
   - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and PixiJS.
 - Resent (not open source)
-  - The #1 PvP Minecraft client that is made to compile to the web (at the time of writing this).
+  - The #1 PvP Minecraft client in the Eaglercraft community (Eaglercraft is an AOT compiled port of Minecraft to Javascript to work on modern web-browsers).
 ## Donate
 If you love what I do and want to see more of it, consider donating :)
 
