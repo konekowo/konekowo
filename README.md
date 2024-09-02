@@ -4,19 +4,19 @@ I'm kone and I absolutely love to code.
 
 ## Languages I know
 1. TypeScript (NodeJS and Browser)
-2. JavaScript (NodeJS and Browser)
-4. Java
-5. C#
-6. HTML
-7. CSS
+2. Java
+3. C#
+4. JavaScript (NodeJS and Browser)
+5. HTML
+6. CSS
 
 And currently, I'm learning C++.
 
 ## Projects I'm working on
-- [Grade Calculator V3](https://github.com/konekowo/Grade-Calculator-V3/)
-  - A full-stack web app that takes grades from your district's grade portal (if it's supported), processes it, lets you add your own "what if" grades, and calculates the total grade and weighted/unweighted GPA.
-- [kosu!ts](https://github.com/konekowo/kosu-ts/)
-  - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and PixiJS.
+- [Grade Calculator V4](https://github.com/konekowo/Grade-Calculator-V4/)
+  - A work-in-progress full-stack web app that takes grades from your district's grade portal (if it's supported), processes it, lets you add your own "what if" grades, and calculates the total grade and weighted/unweighted GPA.
+- [kosu!](https://github.com/konekowo/kosu/)
+  - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and a [modified version of PixiJS](https://github.com/konekowo/pixijs/).
 - Resent (not open source)
   - The #1 PvP Minecraft client in the Eaglercraft community (Eaglercraft is an AOT compiled port of Minecraft to Javascript to work on modern web-browsers).
 ## Donate
