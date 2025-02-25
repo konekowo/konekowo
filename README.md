@@ -17,8 +17,6 @@ And currently, I'm learning C++.
   - The #1 PvP Minecraft client in the Eaglercraft community (Eaglercraft is an AOT compiled port of Minecraft to Javascript to work on modern web-browsers).
 - [kosu!](https://github.com/konekowo/kosu/)
   - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and a [modified version of PixiJS](https://github.com/konekowo/pixijs/).
-- [CroomsSchedCPP](https://github.com/konekowo/CroomsSchedCPP)
-  - A C++ application made in SDL3 that goes on the Windows taskbar to show you the time left in the current class period. This is made only for a specific school, but support for other schools may come later.
 ## Donate
 If you love what I do and want to see more of it, consider donating :)
 
