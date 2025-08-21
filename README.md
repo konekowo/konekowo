@@ -20,7 +20,7 @@ And currently, I'm learning C++.
 ## Donate
 If you love what I do and want to see more of it, consider donating :)
 
-<a href="https://www.buymeacoffee.com/konekowo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=konekowo&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+[☕ Buy me a coffee](https://www.buymeacoffee.com/konekowo)
 ## Contact
 - Discord
   - `_kone__`
