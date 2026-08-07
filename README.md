@@ -11,8 +11,6 @@ I'm kone and I absolutely love to code.
 6. HTML
 7. CSS
 
-And currently, I'm learning C++.
-
 ## Projects I'm working on
 - [kosu!](https://github.com/konekowo/kosu/)
   - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and a [modified version of PixiJS](https://github.com/konekowo/pixijs/).
