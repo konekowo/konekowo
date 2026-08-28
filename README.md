@@ -12,8 +12,8 @@ I'm kone and I absolutely love to code.
 7. CSS
 
 ## Projects I'm working on
-- [kosu!](https://github.com/konekowo/kosu/)
-  - A recreation of osu! (lazer) that is playable in a web browser using TypeScript and a [modified version of PixiJS](https://github.com/konekowo/pixijs/).
+- [Nativefin](https://github.com/Nativefin)
+  - A collection of open source native Jellyfin clients that strive to play the best possible video using first party video decoders.
 ## Contact
 - Discord
   - `_kone__`
